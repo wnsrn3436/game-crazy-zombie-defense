@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="배경음" type="RESOURCE"/>
+  <resource name="탱크총" type="RESOURCE"/>
+  <resource name="마린총" type="RESOURCE"/>
+  <resource name="다음으로" type="RESOURCE"/>
+</resources>

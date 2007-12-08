@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<path>
+  <points>
+    <point speed="100" x="304" y="592"/>
+    <point speed="100" x="304" y="432"/>
+    <point speed="100" x="304" y="320"/>
+    <point speed="100" x="368" y="208"/>
+    <point speed="100" x="480" y="160"/>
+    <point speed="100" x="128" y="352"/>
+    <point speed="100" x="80" y="352"/>
+    <point speed="100" x="80" y="224"/>
+    <point speed="100" x="128" y="80"/>
+    <point speed="100" x="496" y="256"/>
+    <point speed="100" x="592" y="416"/>
+    <point speed="100" x="576" y="480"/>
+    <point speed="100" x="224" y="512"/>
+    <point speed="100" x="64" y="560"/>
+    <point speed="100" x="32" y="512"/>
+    <point speed="100" x="96" y="304"/>
+    <point speed="100" x="176" y="256"/>
+    <point speed="100" x="368" y="128"/>
+    <point speed="100" x="592" y="192"/>
+    <point speed="100" x="576" y="112"/>
+    <point speed="100" x="496" y="64"/>
+    <point speed="100" x="320" y="48"/>
+    <point speed="100" x="256" y="48"/>
+    <point speed="100" x="208" y="48"/>
+    <point speed="100" x="112" y="64"/>
+    <point speed="100" x="80" y="64"/>
+    <point speed="100" x="64" y="64"/>
+    <point speed="100" x="48" y="48"/>
+    <point speed="100" x="32" y="32"/>
+    <point speed="100" x="48" y="16"/>
+    <point speed="100" x="304" y="0"/>
+    <point speed="100" x="640" y="208"/>
+    <point speed="100" x="656" y="336"/>
+    <point speed="100" x="656" y="400"/>
+    <point speed="100" x="608" y="448"/>
+    <point speed="100" x="480" y="496"/>
+    <point speed="100" x="256" y="544"/>
+    <point speed="100" x="160" y="576"/>
+    <point speed="100" x="112" y="592"/>
+    <point speed="100" x="64" y="560"/>
+    <point speed="100" x="64" y="160"/>
+    <point speed="100" x="80" y="176"/>
+    <point speed="100" x="544" y="384"/>
+    <point speed="100" x="608" y="480"/>
+    <point speed="100" x="640" y="544"/>
+    <point speed="100" x="640" y="528"/>
+    <point speed="100" x="624" y="528"/>
+  </points>
+  <backgroundRoom/>
+  <closed>true</closed>
+  <precision>4</precision>
+  <smooth>false</smooth>
+  <snap x="16" y="16"/>
+</path>

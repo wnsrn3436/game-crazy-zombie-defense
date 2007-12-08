@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="설명" type="RESOURCE"/>
+  <resource name="스토리" type="RESOURCE"/>
+  <resource name="캐릭골르기" type="RESOURCE"/>
+  <resource name="도시" type="RESOURCE"/>
+  <resource name="마린도시" type="RESOURCE"/>
+</resources>

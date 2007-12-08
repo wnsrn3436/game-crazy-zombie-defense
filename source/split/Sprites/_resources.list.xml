@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="탱크" type="RESOURCE"/>
+  <resource name="마린" type="RESOURCE"/>
+  <resource name="마우스" type="RESOURCE"/>
+  <resource name="클마" type="RESOURCE"/>
+  <resource name="버튼1" type="RESOURCE"/>
+  <resource name="탱크_2" type="RESOURCE"/>
+  <resource name="마린_2" type="RESOURCE"/>
+  <resource name="건1" type="RESOURCE"/>
+  <resource name="탱크미사일" type="RESOURCE"/>
+  <resource name="터짐" type="RESOURCE"/>
+  <resource name="건물터짐" type="RESOURCE"/>
+  <resource name="건2" type="RESOURCE"/>
+  <resource name="좀비" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="좀비_2" type="RESOURCE"/>
+  <resource name="미사일" type="RESOURCE"/>
+  <resource name="기록지우기" type="RESOURCE"/>
+  <resource name="스토리보기" type="RESOURCE"/>
+  <resource name="뒤로" type="RESOURCE"/>
+</resources>
